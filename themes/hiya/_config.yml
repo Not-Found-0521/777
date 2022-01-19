@@ -27,11 +27,11 @@ widgets:
 - info
 
 # 网站个性化
-icon_img: ../img/icon.png #标签页图标
+icon_img: /img/icon.png #标签页图标
 site_author: 向来痴
 signature: 业精于勤，荒于嬉。  #个性签名
 site_name: 无名BLOG
-avator_img: ../img/avator.jpg #头像
+avator_img: /img/avator.jpg #头像
 
 # Valine 评论系统
 valine:
