@@ -6,12 +6,6 @@ menu:
   归档: 
     - /archives
     - archive
-  关于:
-    - /about
-    - alert-circle
-  留言:
-    - /board
-    - edit-3
 
 # 自定义颜色
 color:
@@ -28,7 +22,7 @@ widgets:
 
 # 网站个性化
 icon_img: /img/icon.png #标签页图标
-site_author: 向来痴
+site_author: L.
 signature: 业精于勤，荒于嬉。  #个性签名
 site_name: 无名BLOG
 avator_img: /img/avator.jpg #头像
