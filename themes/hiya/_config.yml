@@ -21,7 +21,7 @@ widgets:
 - info
 
 # 网站个性化
-icon_img: /img/icon.png #标签页图标
+icon_img: /img/icon.ico #标签页图标
 site_author: L.
 signature: 一腔孤勇。  #个性签名
 site_name: 工作日志
