@@ -392,9 +392,6 @@ body {
 #main-nav-toggle {
   display: none;
 }
-#main-nav-toggle:before {
-  content: "\f0c9";
-}
 @media screen and (max-width: 479px) {
   #main-nav-toggle {
     display: block;
